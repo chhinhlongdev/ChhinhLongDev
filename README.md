@@ -71,27 +71,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔗 [Project One](https://github.com/ChhinhLongDev) | Short description of what it does | Java, Spring Boot |
-| 🔗 [Project Two](https://github.com/ChhinhLongDev) | Short description of what it does | React, TypeScript |
-| 🔗 [Project Three](https://github.com/ChhinhLongDev) | Short description of what it does | Python, Docker |
-
-> Replace the project links and descriptions with your actual projects!
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- You can automate this with a GitHub Action: https://github.com/gautamkrishnar/blog-post-workflow -->
-- 🎬 [Video title here](https://youtube.com/@chhinhlongdev)
-- 🎬 [Video title here](https://youtube.com/@chhinhlongdev)
-- 🎬 [Video title here](https://youtube.com/@chhinhlongdev)
-
----
-
 ### 🤝 Connect With Me
 
 <p align="left">
